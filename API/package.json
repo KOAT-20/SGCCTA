@@ -1,0 +1,24 @@
+{
+  "name": "CYT",
+  "version": "1.0.0",
+  "description": "Aplicación para el registro de solicitud de donaciones y control de asistencia de los trabajadores",
+  "main": "App.js",
+  "author": "Kevin Alvarez",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "debug": "^4.1.1",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "moment": "^2.24.0",
+    "pg": "^7.8.0",
+    "util": "^0.11.1"
+  },
+  "scripts": {
+    "start": "nodemon App.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
