@@ -11,7 +11,7 @@
     "babel-preset-react": "^6.24.1",
     "bootstrap": "^4.2.1",
     "html2canvas": "^1.0.0-rc.1",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "mdbreact": "^4.9.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
